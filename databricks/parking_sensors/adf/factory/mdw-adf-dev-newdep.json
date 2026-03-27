@@ -1,0 +1,9 @@
+{
+	"name": "mdw-adf-dev-newdep",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3fbd1ef6-b32f-4d62-8ae2-353b61447b0b",
+		"tenantId": "b9497e06-3cf3-4962-a8fa-ea8bfaab4c81"
+	}
+}
